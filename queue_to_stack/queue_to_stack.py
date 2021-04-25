@@ -1,5 +1,6 @@
 """
 Queue to stack converter.
+git repo - https://github.com/OlehPalka/queue_to_stack
 """
 
 import copy

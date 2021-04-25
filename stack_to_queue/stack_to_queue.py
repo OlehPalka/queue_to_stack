@@ -1,5 +1,6 @@
 """
 Stack to queue converter.
+git repo - https://github.com/OlehPalka/queue_to_stack
 """
 import copy
 from arrayqueue import ArrayQueue   # or from linkedqueue import LinkedQueue
